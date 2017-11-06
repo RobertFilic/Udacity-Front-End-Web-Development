@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+These are my reflections:
+1. I improved my HTML skills and can better search the web to find support when looking for new HTML tags.
+2. The course is very clear and easy to follow. HTML is not that difficult by itself, however requires understanding the syntax and object names
+3. It is challenging to know and find appropriate HTML objects
+4. Searching became easier and i'm using development tools to help me out understand existing syntaxes.
