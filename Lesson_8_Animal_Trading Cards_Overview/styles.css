@@ -1,1 +1,48 @@
 /* add your CSS here */
+.facts{
+  font-style: italic;
+  padding: 10px;
+  margin: 0;
+}
+
+span{
+  font-weight: bold;
+}
+
+ul{
+  list-style-type:none;
+  padding: 10px;
+  margin: 0;
+}
+
+.border_page{
+  border-style: ridge;
+  width: 300px;
+  padding: 15px;
+  box-shadow: 10px 10px lightgrey;
+}
+
+.border_content{
+  border-style: ridge;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.image_style{
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+p{
+  border: 300px;
+  padding: 10px;
+  padding-right: 10px;
+  margin: 0;
+}
+
+h3{
+  margin: 15;
+}
